@@ -1,0 +1,2 @@
+# Cognetix_StudentManagementSystem
+Student Management System
